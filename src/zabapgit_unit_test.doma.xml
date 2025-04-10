@@ -10,6 +10,7 @@
     <OUTPUTLEN>000010</OUTPUTLEN>
     <DDTEXT>Testing</DDTEXT>
    </DD01V>
+   <ABAP_LANGUAGE_VERSION>5</ABAP_LANGUAGE_VERSION>
   </asx:values>
  </asx:abap>
 </abapGit>
